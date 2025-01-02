@@ -1,5 +1,5 @@
 {
-  "name": "day_01",
+  "name": "exercise-f8",
   "version": "1.0.0",
   "main": "index.js",
   "type": "module",
@@ -13,6 +13,7 @@
     "concurrently": "^9.1.2",
     "express": "^4.21.2",
     "json-server": "^0.17.0",
+    "mongoose": "^8.9.2",
     "nodemon": "^3.1.9"
   }
 }
